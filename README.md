@@ -4,7 +4,7 @@ website travel package sederhana dengan laravel 7
 login user : 
 - gundul@gmail.com
 - 12345
-- 
+
 login admin :
 - alfath@gmail.com
 - 12345
